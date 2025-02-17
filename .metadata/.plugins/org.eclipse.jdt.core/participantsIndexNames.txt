@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+D:\JavaPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1341331744.index
+\servletexample\src\main\java
+D:\JavaPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3040366545.index
+\jsp-servlet-jdbc-mysql-crud-tutorial-master\src
+D:\JavaPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1526656023.index
+\ProjectNew\src\main\java
+D:\JavaPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\819838421.index
+\UserManagement\src
